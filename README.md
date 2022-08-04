@@ -2,4 +2,4 @@
 
 A repository to test out collaboration with git
 
-Collaborators: **Ahn Shields******\_********
+Collaborators: Ahn Shields
